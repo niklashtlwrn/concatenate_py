@@ -1,4 +1,5 @@
-lib
 bin
-include
+lib
+.Python
 pyvenv.cfg
+.pytest_cache
